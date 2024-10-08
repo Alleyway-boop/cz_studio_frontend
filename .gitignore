@@ -1,0 +1,9 @@
+node_modules
+/dist
+
+# Editor directories and files
+.idea
+.vscode
+
+pnpm-lock.yaml
+src/assets/media/professionalintroduction.mp4
