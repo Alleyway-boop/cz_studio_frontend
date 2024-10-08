@@ -13,7 +13,7 @@
           </div>
           <p class="mb-2 text-gray-500 sm:pr-8">软件开发与系统集成工作室</p>
           <a  href="https://qm.qq.com/q/FfqVAqsBUs" class="w-auto my-2  ">
-            <img src="@/assets/img/sr1.jpg " class="w-2/4 " alt="">
+            <img src="https://yixiaoyuan-1328425467.cos.ap-nanjing.myqcloud.com/chzc-team%2Fimg%2Fsr1.jpg" class="w-2/4 " alt="">
          点击加入QQ招新群</a>
         </div>
       </div>
